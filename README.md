@@ -12,3 +12,7 @@ Reference yaml files for kubernetes learning
 
 ### EFK stack on DigitalOcean K8S
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-an-elasticsearch-fluentd-and-kibana-efk-logging-stack-on-kubernetes
+
+### For Services and Ports, for Springboot app
+- https://learnk8s.io/spring-boot-kubernetes-guide
+- https://medium.com/@deepeshtripathi/all-about-kubernetes-port-types-nodeport-targetport-port-containerport-e9f447330b19#:~:text=%E2%80%9CcontainerPort%E2%80%9D%20defines%20the%20port%20on,comes%20into%20the%20picture%20here.
