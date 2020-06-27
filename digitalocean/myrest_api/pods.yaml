@@ -1,0 +1,14 @@
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: webapp
+  labels:
+    app: webapp
+
+spec:
+  containers:
+  - name: webapp
+    image: meetkrutik/spring-rest:june5000
+    ports:
+    - containerPort: 5000
